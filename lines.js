@@ -5,7 +5,7 @@ void setup() {
     size(300, 300); 
     smooth();
     frameRate(60);
-    strokeWeight(12);
+    strokeWeight(12); // linesssssss
 } 
 
 void draw() {
